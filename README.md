@@ -1,5 +1,7 @@
 # AFEW_preprocess
-preprocessing AFEW from video to images
+preprocessing AFEW from video to images for FAN
+
+FAN:https://github.com/Open-Debin/Emotion-FAN
 
 ## problems remaining:
 不包含face bounding box extent ；检测效率低下
